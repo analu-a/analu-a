@@ -3,6 +3,7 @@
   <img align="center" alt="Ana-gif" src="https://i.pinimg.com/originals/37/d7/1f/37d71fe8939c637be543c8825c3c315c.gif">
 
 - 🌱 Estudante de Cyber Security
+- 📫 Fale comigo em analuiza.azevedomorais@gmail.com
 
 ##
 #### Linguagens ✨
@@ -21,11 +22,8 @@
  
 <div> 
 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23ab4eb3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-%23ab4eb3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ab4eb3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ab4eb3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/analu_a.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23ab4eb3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-luiza-azevedo-morais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ab4eb3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
